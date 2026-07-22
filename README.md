@@ -1,6 +1,6 @@
 # Customer Churn Prediction — End-to-End ML Project
 
-**Developer:** Jagadishkumar J | Final Year B.Tech CSBS, NIET
+**Developer:** Jeevanantham M | Final Year B.Tech CSBS, NIET
 
 An end-to-end machine learning pipeline that predicts whether a subscription-based
 customer will churn (leave) or stay, based on their demographics, account details,
